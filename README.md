@@ -19,11 +19,10 @@ Para probar este ejemplo clona este repositorio de la siguiente forma:
 
 ## Captura de Pantalla
 Utiliso un Splashscreen salio asi la captura :V
+
 <div align="center">
-
     <center>
-
-        <img src="/img/captura1.png" width="300">
+        <img src="/img/captura.png" width="300">
     </center>
 </div>
 <div align="center">
