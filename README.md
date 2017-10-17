@@ -15,14 +15,14 @@ Todo dentro del contenido del **Study Jam
 
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $
+>     $ https://github.com/darwinjm/StudyJam_tarea3.git
 
 ## Captura de Pantalla
 
 <div align="center">
-
-    <center>
 ## Utiliso un Splashscreen salio asi la captura :V
+    <center>
+
         <img src="/img/captura1.png" width="300">
     </center>
 </div>
